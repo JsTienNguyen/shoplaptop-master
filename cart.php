@@ -76,7 +76,7 @@ if (isset($_POST['update_cart'])) {
         <div class="row ">
             <div class="col-md-12 ">
                 <div class="product-bit-title text-center ">
-                    <h2>Giỏ Hàng</h2>
+                    <h2>lUÂN ĐẸP TRAI</h2>
                 </div>
             </div>
         </div>
